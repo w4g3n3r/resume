@@ -9,7 +9,7 @@ Skills
 ------
 
 *  Software Engineering (GRASP, SOLID, Agile, DDD)
-*  Dev Ops (Continuous Integration, Blue/Green Deployments)   
+*  Dev Ops (Continuous Integration, Blue/Green Deployments)
 *  Database Administration (Design, Optimization, Maintenance)
 
 Work Experience
@@ -19,9 +19,9 @@ Work Experience
 
     *Senior Software Engineer*, 2012 - Present
 
-    -   Built and maintain a marketing automation & customer experience platform that handles millions of leads and survey responses a day. _(C#, .net MVC, Entity Framework, Web API, MEF, Simple Injector, MSSQL)_
-    -   Built and maintain an email delivery system that is capable of rendering, scheduling, and sending millions of emails a day. _(C#, .net, Microservices, Azure Service Bus, Mass Transit, MSSQL)_
-    -   Built an employee performance and rewards program for multiple clients. _(C#, .net MVC, MSSQL)_
+    -   Built and maintained a marketing automation & customer experience platform. _(C#, .net MVC, Entity Framework, Web API, MEF, Simple Injector, MSSQL)_
+    -   Built and maintained an email delivery system that is capable of rendering, scheduling, and sending millions of emails a day. _(C#, .net, Microservices, Azure Service Bus, Mass Transit, MSSQL)_
+    -   Built employee performance and reward programs. _(C#, .net MVC, MSSQL)_
     -   Manage the build and deployment pipelines. _(Team City, Octopus Deploy, Powershell)_
 
 *   **CPI Corp.**
@@ -33,8 +33,8 @@ Work Experience
 
     *Senior Programmer*, 2006 - 2011
 
-    -   Built an "Employee Application Center" that managed multiple HR apps, including a time clock. _(C#, WPF, WCF, MSSQL)_
-    -   Maintained a legacy POS application named SAS. _(VB6, C++, Informix)_
+    -   Built an application framework that hosted multiple HR apps, including a time clock. _(C#, WPF, WCF, MSSQL)_
+    -   Maintained a legacy POS application. _(VB6, C++, Informix)_
     -   Supported the POS hardware and software of all Sears Photo Studios.
 
 *   **Cardinal Health**
@@ -43,7 +43,7 @@ Work Experience
 
     -   Maintained and updated internal and external websites.
     -   Built a customer/employee maintenance application. _(C#, WinForms, MSSQL)_
-    -   Built an on line financial tracking system. _(VBScript, Classic ASP, MSSQL)_
+    -   Built an online financial tracking system. _(VBScript, Classic ASP, MSSQL)_
 
 *   **Medicine Shoppe International**
 
